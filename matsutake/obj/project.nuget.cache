@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "OprFZOwFK0M7CWJ77ggGo/DAM4B1g0PY6l3J8pc8IIVB9u5saPCOBXjWjALFT48Ybq4bM8LiuqjNNCJvYSdv4w==",
+  "dgSpecHash": "/GfZsJVgC0xSaBfDU6VAL2plbBAiwCHuoMdaz3WffA6IIYQCrFYIBtNfaG3qRuNxcz+lWaWZTVQKZ1N9q+lj+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\theeranat.sre\\source\\repos\\matsutake\\matsutake\\matsutake.csproj",
+  "projectFilePath": "C:\\Users\\theeranat.sre\\project\\matsutake\\matsutake\\matsutake.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus.ntbx.tech/repository/ntb-nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }

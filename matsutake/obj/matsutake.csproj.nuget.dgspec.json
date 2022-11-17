@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\theeranat.sre\\source\\repos\\matsutake\\matsutake\\matsutake.csproj": {}
+    "C:\\Users\\theeranat.sre\\project\\matsutake\\matsutake\\matsutake.csproj": {}
   },
   "projects": {
-    "C:\\Users\\theeranat.sre\\source\\repos\\matsutake\\matsutake\\matsutake.csproj": {
+    "C:\\Users\\theeranat.sre\\project\\matsutake\\matsutake\\matsutake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\theeranat.sre\\source\\repos\\matsutake\\matsutake\\matsutake.csproj",
+        "projectUniqueName": "C:\\Users\\theeranat.sre\\project\\matsutake\\matsutake\\matsutake.csproj",
         "projectName": "matsutake",
-        "projectPath": "C:\\Users\\theeranat.sre\\source\\repos\\matsutake\\matsutake\\matsutake.csproj",
+        "projectPath": "C:\\Users\\theeranat.sre\\project\\matsutake\\matsutake\\matsutake.csproj",
         "packagesPath": "C:\\Users\\theeranat.sre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\theeranat.sre\\source\\repos\\matsutake\\matsutake\\obj\\",
+        "outputPath": "C:\\Users\\theeranat.sre\\project\\matsutake\\matsutake\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\theeranat.sre\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nexus.internal-ntb.com/repository/ntb-nuget/": {},
+          "http://nexus.ntbx.tech/repository/ntb-nuget/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -46,7 +46,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
